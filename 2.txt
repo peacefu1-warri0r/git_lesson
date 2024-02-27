@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   Stasi    2159    2158 pty0     11:04:20 /usr/bin/bash
+   Stasi    2276    2159 pty0     11:43:19 /usr/bin/ps
+   Stasi    2158       1 ?        11:04:20 /usr/bin/mintty
